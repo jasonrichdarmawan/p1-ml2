@@ -1,0 +1,10 @@
+streamlit
+joblib
+json
+pandas
+pillow # PIL
+matplotlib
+seaborn
+numpy
+
+scikit-learn==1.1.3
