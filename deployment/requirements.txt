@@ -1,8 +1,14 @@
 streamlit
 joblib
-json
+
+# json is pre-installed in Python.
+# json 
+
 pandas
-pillow # PIL
+
+# pillow is the package name for PIL
+pillow 
+
 matplotlib
 seaborn
 numpy
