@@ -5,6 +5,6 @@ import backend
 navigation = st.sidebar.selectbox(label='Pilih Halaman', options=('EDA', 'Prediction'))
 
 if navigation == 'EDA':
-    pass
+    frontend.run()
 else:
     backend.run()
